@@ -1,4 +1,4 @@
-# Project README: EchoMemoryAttention vs. Multi-Head Attention (MHA) Benchmarking
+# EchoMemoryAttention vs. Multi-Head Attention (MHA) Benchmarking
 
 This experiment evaluates a novel attention mechanism called **EchoMemoryAttention** against standard PyTorch **Multi-Head Attention (MHA)** on synthetic long-context sequence processing and language modeling tasks.
 
